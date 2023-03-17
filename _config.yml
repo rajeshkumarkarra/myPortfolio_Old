@@ -17,7 +17,7 @@ show_social: ture         # show site description and social links in the footer
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/rajeshkarra.pdf", title: "CV", icon: home}
+  - {file: "/rajeshkarra.pdf", title: "CV"}
   - {title: "Lab", url: "https://rajeshkumarkarra.github.io"}
   - {title: "Blog", file: "/blog.md"}
 
