@@ -3,7 +3,7 @@ layout: page
 title: "Blog"
 ---
 
-I'm an under grad student [major in Physics] (https://en.wikipedia.org/wiki/Physics) at the Osmania University.
+I'm an under grad student [major in Physics](https://en.wikipedia.org/wiki/Physics) at the Osmania University.
 
 I teach [Physics](https://en.wikipedia.org/wiki/Physics) and [Calculus](https://en.wikipedia.org/wiki/Calculus).
 
