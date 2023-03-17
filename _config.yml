@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rajeshkumarkarra@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/rajeshkumarkarra"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/k_rajesh_kumar"}
+  - {title: Twitter, icon: fa-twitter, url: "https://twitter.com/k_rajesh_kumar"}
   - {title: ORCID, icon: fa-orcid, url: "https://orcid.org/0000-0003-4099-7143"}
 
 comments:
