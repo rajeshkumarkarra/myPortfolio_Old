@@ -24,6 +24,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 <script src="https://gist.github.com/rajeshkumarkarra/077cf08ee2cf03ea7bbc050fafe99375.js?file=gist.md"></script>
+<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
