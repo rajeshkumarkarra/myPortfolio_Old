@@ -4,7 +4,7 @@ title: "Essentials"
 ---
 
 {% if site.show_excerpts %}
-  {% include home.html %}
+  {% include essentials.html %}
 {% else %}
-  {% include archive.html title="Posts" %}
+  {% include archive1.html title="Essentials" %}
 {% endif %}
