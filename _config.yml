@@ -1,6 +1,6 @@
 title: "Rajesh Karra"
 author: "Rajesh kumar Karra"
-description: "Osmania University"
+description: {"Osmania University", url: "https://www.osmania.ac.in/"}
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
