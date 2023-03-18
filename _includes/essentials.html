@@ -1,4 +1,4 @@
-{%- assign essentials = paginator.essentials | default: site.posts -%}
+{%- assign essentials = paginator.essentials | default: site.gists -%}
 {% for essential in essentials %}
   <article>
     {% include meta.html essential=essential preview=true %}
