@@ -1,4 +1,4 @@
-{%- assign essentials = paginator.essentials | default: site.essentials -%}
+<!--{%- assign essentials = paginator.essentials | default: site.essentials -%}
 {% for essential in essentials %}
   <article>
     {% include meta.html essential=essential preview=true %}
@@ -13,5 +13,5 @@
     <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">older essentials »</a>{% else %}<span></span>{% endif %}
   </footer>
-{% endif %}
+{% endif %}-->
 
