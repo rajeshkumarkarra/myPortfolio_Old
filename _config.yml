@@ -19,7 +19,9 @@ search_enabled: true
 heading_anchors: true
 # Menu
 
-logo: "/assets/images/gr.jpg"
+favicon_ico: "/assets/images/favicon.ico"
+
+
 
 
 
