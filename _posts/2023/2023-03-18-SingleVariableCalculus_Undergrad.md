@@ -13,6 +13,8 @@ $$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2
 
 $$ E=MC^2$$
 
+<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
+
 
 
 
