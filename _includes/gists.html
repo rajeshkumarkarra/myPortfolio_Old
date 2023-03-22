@@ -1,4 +1,4 @@
-<!--{%- assign gists = paginator.gists | default: site.gists -%}
+{%- assign gists = paginator.gists | default: site.gists -%}
 {% for gist in gists %}
   <article>
     {% include meta.html gist=gist preview=true %}
@@ -13,7 +13,7 @@
     <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">older gists »</a>{% else %}<span></span>{% endif %}
   </footer>
-{% endif %}-->
+{% endif %}
 
 
 
