@@ -1,5 +1,5 @@
 ---
-title:  "Graduate Record Examinations "
+title:  "GRE(Graduate Record Examinations)"
 layout: post
 categories: media
 ---
