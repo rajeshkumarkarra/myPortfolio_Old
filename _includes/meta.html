@@ -2,4 +2,15 @@
   <h1><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h1>
   {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
   <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}</time>
+  
+  
+  <h1><a href="{{ include.essential.url | relative_url }}">{{ include.essential.title }}</a></h1>
+  {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+  <time datetime="{{ include.essential.date | date_to_xmlschema }}">{{ include.essential.date | date: date_format }}</time>
+  
+  
+  <h1><a href="{{ include.gist.url | relative_url }}">{{ include.gist.title }}</a></h1>
+  {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+  <time datetime="{{ include.gist.date | date_to_xmlschema }}">{{ include.gist.date | date: date_format }}</time>
+  
 </header>
