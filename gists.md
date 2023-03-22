@@ -11,7 +11,9 @@ title: "Gists"
 
 
 ## FORTRAN for Physics
-<script> src="https://gist.github.com/rajeshkumarkarra/e86202a9839c81d5bf1210192b04afae.js?file=gist.md</script>
+<script src="https://gist.github.com/rajeshkumarkarra/e86202a9839c81d5bf1210192b04afae.js?file=gist.md"></script>
+
+
 
 
 
