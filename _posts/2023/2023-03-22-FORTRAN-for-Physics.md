@@ -4,3 +4,8 @@ layout: post
 categories: media
 ---
 
+Will update soon. Visit other posts(Awesome Math, A.Math-2, Grad Studies and Undergrad Studies until then.
+
+Check out Gists and Essentials.
+
+Thank you!
