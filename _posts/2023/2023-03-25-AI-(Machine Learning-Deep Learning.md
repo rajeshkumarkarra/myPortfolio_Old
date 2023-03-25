@@ -8,7 +8,8 @@ categories: media
 
 ## [Deep Learning with Fastai](https://www.fast.ai/)
 
-<iframe src="https://drive.google.com/drive/folders/1HFHow3I7XKyYZYDh3e_jJ90UGcUImU0W?usp=sharing" width="WIDTH" height="HEIGHT" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=1HFHow3I7XKyYZYDh3e_jJ90UGcUImU0W#grid" width="WIDTH" height="HEIGHT" frameborder="0" scrolling="no"></iframe>
+
 
 
 
