@@ -1,5 +1,5 @@
 ---
-title:  "FORTRAN for Physics"
+title:  "AI (Machine Learning/Deep Learning"
 layout: post
 categories: media
 ---
