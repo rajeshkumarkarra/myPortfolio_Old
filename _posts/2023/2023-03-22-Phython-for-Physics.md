@@ -4,8 +4,7 @@ layout: post
 categories: media
 ---
 
-Will update soon, Visit other posts (Awesome Math, A.Math-2, Grad Studies and Undergrad Studies) until then.
+### [PHY202 — (Python) Programming for Physicists](https://becksteinlab.physics.asu.edu/learning/128/phy202-programming-for-physicists)
 
-Check out Gists and Essentials.
-
-Thank you!
+### [PyMan 0.9.31 documentation](https://physics.nyu.edu/pine/pymanual/html/pymanMaster.html)
+        Introduction to Python for Science
