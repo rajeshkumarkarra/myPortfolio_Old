@@ -12,7 +12,7 @@ I teach [Physics](https://en.wikipedia.org/wiki/Physics) and [Calculus](https://
 
 
 
-Note: The following content added check out Essentials, Spotlights
+Note: The following content added, Check out Essentials, Spotlights
 and Gists to find them
 
 | S.No| Paper/Book Name          | Source |
