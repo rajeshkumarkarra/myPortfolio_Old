@@ -17,8 +17,8 @@ and Gists to find them
 
 | S.No| Paper/Book Name          | Source |
 |:----|:-------------------------|:-------|
-| 1   | English Tenses table     | [click](https://karra-online.info/essentials/)|
-| 2   | good and plenty          | nice   |
+| 1   | English Tenses table                          | [click](https://karra-online.info/essentials/)|
+| 2   | A complete Guide for GERMAN LANGUAGE learning | [click](https://karra-online.info/essentials/)|
 | 3   | good `oreos`             | hmm    |
 | 4   | good `zoute` drop        | yumm   |
 
