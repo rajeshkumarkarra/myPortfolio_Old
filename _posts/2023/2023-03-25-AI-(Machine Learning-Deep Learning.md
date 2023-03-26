@@ -6,9 +6,14 @@ categories: media
 
 # Machine Learning / Deep Learning
 
-## [Deep Learning with Fastai](https://www.fast.ai/)
+## Deep Learning with [Fastai](https://www.fast.ai/)
+
+## Learn Machine Learning with [Kaggle](https://www.kaggle.com/)
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1HFHow3I7XKyYZYDh3e_jJ90UGcUImU0W#list" width="640" height="480" frameborder="0" scrolling="yes"></iframe>
+
+
+
 
 
 
