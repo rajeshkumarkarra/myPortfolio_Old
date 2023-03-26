@@ -9,10 +9,16 @@ I teach [Physics](https://en.wikipedia.org/wiki/Physics) and [Calculus](https://
 
 [Physics](https://en.wikipedia.org/wiki/Physics) and [Calculus](https://en.wikipedia.org/wiki/Calculus) made easy.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+
+
+Note: The following content added check out Essentials, Spotlights
+and Gists to find them
+
+| S.No| Paper/Book Name          | Source |
+|:----|:-------------------------|:-------|
+| 1   | English Tenses table     | [click](https://karra-online.info/essentials/)|
+| 2   | good and plenty          | nice   |
+| 3   | good `oreos`             | hmm    |
+| 4   | good `zoute` drop        | yumm   |
 
