@@ -10,7 +10,7 @@ categories: media
 
 ### Learn Machine Learning with [Kaggle](https://www.kaggle.com/)
 
-### Practice Google Colab notes of ML with fast.ai
+### Practice ML with fast.ai in Google Colab notebooks 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1HFHow3I7XKyYZYDh3e_jJ90UGcUImU0W#list" width="640" height="480" frameborder="0" scrolling="yes"></iframe>
 
 
