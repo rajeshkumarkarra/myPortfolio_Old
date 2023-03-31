@@ -1,5 +1,5 @@
 ---
-title:  "https://brilliant.org/#home"
+title:  "brilliant.org/"
 layout: post
 categories: media
 ---
