@@ -12,5 +12,4 @@ categories: media
 
 ## Paper_Single Variable Calculus
 
-{% include embed.html url="https://drive.google.com/file/d/1rIdU1rcDX6TNDvkjWJqgLeggiCWkkuWq/preview" %}
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTx-k3fSVtmY-F2RcUQv-io1c_SpVTFQMc5RrB5E79lR3Y19Ot2ATWsakIwImlfLIgeDida9UvvBU0K/pub?embedded=true"></iframe>
+{% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTx-k3fSVtmY-F2RcUQv-io1c_SpVTFQMc5RrB5E79lR3Y19Ot2ATWsakIwImlfLIgeDida9UvvBU0K/pub?embedded=true" %}
