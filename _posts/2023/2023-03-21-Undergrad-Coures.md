@@ -17,3 +17,5 @@ categories: media
 ## Classical Mechanics
 
 {% include embed.html url="https://paper.dropbox.com/doc/Classical-Mechanics--B1zLffqVimPPqo_JpfoG8cxnAQ-jZ6N6L8kJbBTq8XUcMru6/pub?embedded=true" %}
+
+{% include embed.html url="https://paper.dropbox.com/doc/Classical-Mechanics--B1zLffqVimPPqo_JpfoG8cxnAQ-jZ6N6L8kJbBTq8XUcMru6/pub/preview" width="640" height="480" allow="autoplay" %}
