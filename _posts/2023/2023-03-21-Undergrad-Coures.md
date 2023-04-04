@@ -13,3 +13,7 @@ categories: media
 ## Paper_Single Variable Calculus
 
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTx-k3fSVtmY-F2RcUQv-io1c_SpVTFQMc5RrB5E79lR3Y19Ot2ATWsakIwImlfLIgeDida9UvvBU0K/pub?embedded=true" %}
+
+## Classical Mechanics
+
+{% include embed.html url="https://paper.dropbox.com/doc/Classical-Mechanics--B1zLffqVimPPqo_JpfoG8cxnAQ-jZ6N6L8kJbBTq8XUcMru6/pub?embedded=true" %}
