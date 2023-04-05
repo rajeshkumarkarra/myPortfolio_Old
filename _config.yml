@@ -17,9 +17,10 @@ mathjax: true
 ORCID: "0000-0003-4099-7143"
 search_enabled: true
 heading_anchors: true
+favicon_ico: "/assets/images/favicon.ico"
 # Menu
 
-favicon_ico: "/assets/images/favicon.ico"
+
 
 
 
