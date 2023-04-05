@@ -7,8 +7,17 @@ categories: media
 
 ## Undergrad Courses @ MIT(Massachusetts Institute of Technology) 
 {: .label .label-purple}
-
+<!--
 [MIT OpenCourseWare](https://ocw.mit.edu/search/?type=course)  - [Practice notes](https://1drv.ms/u/s!Aq-y9p6cVRuOhFyZsygiSjg-9uck?e=yfkedb)
+
+https://1drv.ms/o/s!Aq-y9p6cVRuOhBVshJoaPcSffXlM?e=6EO6vL
+-->
+
+| S.No| Paper/Book Name          | Source |
+|:----|:-------------------------|:-------|
+| 1   | Undergrad courses @ MIT OpenCourseWare | [click](https://ocw.mit.edu/search/?type=course)|
+| 2   | B.Sc(M.P.Cs)_Lecture Notes Osmania University | [click](https://1drv.ms/o/s!Aq-y9p6cVRuOhBVshJoaPcSffXlM?e=6EO6vL)|
+
 
 ## Paper_Single Variable Calculus
 
