@@ -30,8 +30,8 @@ and Gists to find them
 | 11  |  Awesome Math  |[click](https://karra-online.info/spotlights/)|
 | 12  |  Awesome Math 2  |[click](https://karra-online.info/spotlights/)|
 | 13  |  FORTRAN for Physics  |[click](https://karra-online.info/spotlights/)|
-| 14  |  Undergrad Studies  |[click](https://karra-online.info/spotlights/)|
-| 15  |   Grad Studies  |[click](https://karra-online.info/spotlights/)|
+| 14  |  Undergrad Courses  |[click](https://karra-online.info/spotlights/)|
+| 15  |   Grad Courses  |[click](https://karra-online.info/spotlights/)|
 | 16  |  Gist - FORTRAN for Physics  |[click](https://karra-online.info/gists/)|
 | 17  |   Gist - FORTRAN with CUDA  |[click](https://karra-online.info/gists/)|
 | 18  |   Gist - ROOT turorial using Google Colab   |[click](https://karra-online.info/gists/)|
