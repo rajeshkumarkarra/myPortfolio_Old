@@ -6,5 +6,6 @@ categories: media
 
 ## Life in Scandinavian/Nordic Countries
 
+{% include embed.html url="https://1drv.ms/o/s!Aq-y9p6cVRuOhHFPc-qp0_zEzAVo?e=7WdjfW" %}
 
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vRrtUyX4PslO_odBaaR42nIKr81nf-yxZ5ia5bu7XZgAY-tQhp8liDKMF6Gfw8jzaS2_mKVGdw4AwIe/pub?embedded=true" %}
