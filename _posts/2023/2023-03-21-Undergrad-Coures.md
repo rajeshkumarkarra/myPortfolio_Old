@@ -41,15 +41,23 @@ Classical Mechanics</summary>
   {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTjCxagANjDOZ0HRViEP3zkppJD7X8ThGLGiVYXNXZia0DhSzydJwCGazFKKQYHHTdI4dLyhxRVUoHo/pub?embedded=true" %}
   </details>
   
-<details><summary>Does not work</summary>
-[hi](https://hello.ca)
+<details><Undergrad Courses @ MIT</summary>
+[MIT OCW]([https://hello.ca](https://ocw.mit.edu/))
 </details>
 
 
-<details><summary>Does work</summary>
+<details><summary>18.01 | Fall 2006 | Undergraduate
+Single Variable Calculus</summary>
 
-[hi](https://hello.ca)
-
-</details>
+ <br>
+  {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTx-k3fSVtmY-F2RcUQv-io1c_SpVTFQMc5RrB5E79lR3Y19Ot2ATWsakIwImlfLIgeDida9UvvBU0K/pub?embedded=true" %}
+  </details>
+  
+ <details open>
+  <summary>8.01SC | Fall 2016 | Undergraduate
+Classical Mechanics</summary>
+  <br>
+  {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTjCxagANjDOZ0HRViEP3zkppJD7X8ThGLGiVYXNXZia0DhSzydJwCGazFKKQYHHTdI4dLyhxRVUoHo/pub?embedded=true" %}
+  </details>
 
 
