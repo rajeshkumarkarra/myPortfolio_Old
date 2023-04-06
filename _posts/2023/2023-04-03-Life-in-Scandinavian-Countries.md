@@ -1,5 +1,5 @@
 ---
-title:  "Scandinavian Countries"
+title:  "Life in Europe & Scandinavian Countries"
 layout: post
 categories: media
 ---
