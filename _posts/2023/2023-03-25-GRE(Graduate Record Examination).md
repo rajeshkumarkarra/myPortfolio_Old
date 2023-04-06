@@ -15,3 +15,7 @@ categories: media
 
 ### Exam_GR0177
 {% include embed.html url="https://drive.google.com/file/d/1bWwvmdpj9vI33QDPBFFthh4HxwC8zd2q/preview" width="640" height="480" allow="autoplay" %}
+
+## Paper_GRE
+
+{% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vScf5JENFAp_ITJskhUZbwlhvx3Fw2XVIl4aXmMhYzRRmjDMzxpf6nDBSbtQI_kAiAcicUkiJgfZt6i/pub?embedded=true" %}
