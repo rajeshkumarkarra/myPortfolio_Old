@@ -27,4 +27,10 @@ https://1drv.ms/o/s!Aq-y9p6cVRuOhBVshJoaPcSffXlM?e=6EO6vL
 
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTjCxagANjDOZ0HRViEP3zkppJD7X8ThGLGiVYXNXZia0DhSzydJwCGazFKKQYHHTdI4dLyhxRVUoHo/pub?embedded=true" %}
 
+<details open>
+  <summary>Paper_Single Variable Calculus</summary>
+  <br>
+  {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTx-k3fSVtmY-F2RcUQv-io1c_SpVTFQMc5RrB5E79lR3Y19Ot2ATWsakIwImlfLIgeDida9UvvBU0K/pub?embedded=true" %}
+  </details>
+
 
