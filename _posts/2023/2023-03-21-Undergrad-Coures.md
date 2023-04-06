@@ -40,5 +40,16 @@ Classical Mechanics</summary>
   <br>
   {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vTjCxagANjDOZ0HRViEP3zkppJD7X8ThGLGiVYXNXZia0DhSzydJwCGazFKKQYHHTdI4dLyhxRVUoHo/pub?embedded=true" %}
   </details>
+  
+<details><summary>Does not work</summary>
+[hi](https://hello.ca)
+</details>
+
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
 
 
