@@ -27,14 +27,17 @@ and Gists to find them
 | 8   | GRE(Graduate Record Examinations)  |[click](https://karra-online.info/spotlights/)|
 | 9   | AI (Machine Learning/Deep Learning  |[click](https://karra-online.info/spotlights/)|
 | 10  | ACT(American College Testing)  |[click](https://karra-online.info/spotlights/)|
-| 11  |  Awesome Math  |[click](https://karra-online.info/spotlights/)|
-| 12  |  Awesome Math 2  |[click](https://karra-online.info/spotlights/)|
-| 13  |  FORTRAN for Physics  |[click](https://karra-online.info/spotlights/)|
-| 14  |  Undergrad Courses  |[click](https://karra-online.info/spotlights/)|
-| 15  |   Grad Courses  |[click](https://karra-online.info/spotlights/)|
-| 16  |  Gist - FORTRAN for Physics  |[click](https://karra-online.info/gists/)|
-| 17  |   Gist - FORTRAN with CUDA  |[click](https://karra-online.info/gists/)|
-| 18  |   Gist - ROOT turorial using Google Colab   |[click](https://karra-online.info/gists/)|
+| 11  | Awesome Math  |[click](https://karra-online.info/spotlights/)|
+| 12  | Awesome Math 2  |[click](https://karra-online.info/spotlights/)|
+| 13  | FORTRAN for Physics  |[click](https://karra-online.info/spotlights/)|
+| 14  | Undergrad Courses  |[click](https://karra-online.info/spotlights/)|
+| 15  | Grad Courses  |[click](https://karra-online.info/spotlights/)|
+| 16  | Gist - FORTRAN for Physics  |[click](https://karra-online.info/gists/)|
+| 17  | Gist - FORTRAN with CUDA  |[click](https://karra-online.info/gists/)|
+| 18  | Gist - ROOT turorial using Google Colab   |[click](https://karra-online.info/gists/)|
+| 19  | Quantum Computing Resources/Notes   |[click](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)|
+
+
 
 
 
