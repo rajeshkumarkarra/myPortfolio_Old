@@ -27,8 +27,8 @@ and Gists to find them
 | 8   | GRE(Graduate Record Examinations)  |[click](https://rajeshkumarkarra.github.io/essentials/)|
 | 9   | AI (Machine Learning/Deep Learning  |[click](https://rajeshkumarkarra.github.io/spotlights/)|
 | 10  | ACT(American College Testing)  |[click](https://rajeshkumarkarra.github.io/ACT/)|
-| 11  | Awesome Math  |[click]([https://karra-online.info/spotlights/](https://rajeshkumarkarra.github.io/Awesome-Math/))|
-| 12  | Awesome Math 2  |[click]([https://karra-online.info/spotlights/](https://rajeshkumarkarra.github.io/Awesome-Math-2/))|
+| 11  | Awesome Math  |[click](https://rajeshkumarkarra.github.io/Awesome-Math/)|
+| 12  | Awesome Math 2  |[click](https://rajeshkumarkarra.github.io/Awesome-Math-2/)|
 | 13  | FORTRAN for Physics  |[click](https://rajeshkumarkarra.github.io/FORTRAN-for-Physics/)|
 | 14  | Undergrad Courses  |[click](https://rajeshkumarkarra.github.io/Undergrad-Coures/)|
 | 15  | Grad Courses  |[click](https://rajeshkumarkarra.github.io/Grad-Courses/)|
