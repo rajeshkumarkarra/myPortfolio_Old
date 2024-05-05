@@ -8,6 +8,7 @@ title: ""
 I teach [Physics](https://en.wikipedia.org/wiki/Physics) and [Calculus](https://en.wikipedia.org/wiki/Calculus).-->
 
 [Physics](https://en.wikipedia.org/wiki/Physics) and [Calculus](https://en.wikipedia.org/wiki/Calculus) made easy.
+[Self-teach Physics](https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub)
 
 
 
