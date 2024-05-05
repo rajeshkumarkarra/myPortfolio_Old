@@ -38,7 +38,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/rajeshkumarkarra"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/k_rajesh_kumar"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-4099-7143"}
-  - {title: Google Doc, icon: Web, url: "https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub"}
+  - {title: Google Doc, icon: Website, url: "https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
