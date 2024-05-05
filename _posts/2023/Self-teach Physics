@@ -6,5 +6,5 @@ categories: media
 
 ## Self-teach Physics.
     
-{% include embed.html url="https://drive.google.com/file/d/1K6VsLl_ISVvOcFZuWFyGg0CwAUskNmey/preview" width="640" height="480" allow="autoplay" %}
+{% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub" width="640" height="480" allow="autoplay" %}
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true"></iframe>
