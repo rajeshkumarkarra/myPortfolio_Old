@@ -6,18 +6,20 @@ categories: media
 ---
 
 # Rajesh Karra | Undergrad Physics Student
-📞 (888) 681-4149 
-📧 <rajesh_karra@outlook.com>
-🌐 <https://github.com/rajeshkumarkarra>
-🌐 <https://rajeshkarra.academia.edu>
+(888) 681-4149 
+<rajesh_karra@outlook.com>
+<https://github.com/rajeshkumarkarra>
+<https://rajeshkarra.academia.edu>
 
 
 # Professional Profile
+(___________________________________________________________________________________________________________________________________________________________________________________)
+Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physics and Computer Science from Osmania University seeking admission to the Master's program in Theoretical Physics at your University. Eager to leverage my strong foundation in programming and fundamentals of Physics to gain expertise in Theoretical Physics. Aiming to become a research scientist and contribute to the Theoretical Physics and Quantum Computing.
+One pivotal experience that ignited my passion for theoretical physics was my participation in the IBM Qiskit Advocate programs, where I had the opportunity to sharpen my skills in quantum computing.
 
-Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physics and Computer Science from Osmania University seeking admission to the Master's program in Theoretical Physics at your University. Eager to leverage my strong foundation in programming and fundamentals of Physics  to gain expertise in Theoretical Physics. Aiming to become a research scientist and contribute to the Theoretical Physics and Quantum Computing.
 
 # Core Skills
-
+(___________________________________________________________________________________________________________________________________________________________________________________)
 ### Physics/Quantum Computing					
 * IBM Qiskit							
 * FORTRAN							 
@@ -32,6 +34,7 @@ Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physic
 
 
 # Education
+(___________________________________________________________________________________________________________________________________________________________________________________)
 ### Masters(Pursuing)  - University of Hertfordshire, UK |
 Theoretical Physics with Advanced Research
 | Sep 2024 - Sep 2026 |
@@ -81,8 +84,7 @@ Subjects included:
 
 
 # Career Summary
-
-
+(___________________________________________________________________________________________________________________________________________________________________________________)
 ### Jan 2018 - Dec 2020	| LNP & Co., Chartered Accountants.
 System Admin.
 
@@ -153,9 +155,20 @@ Audit Executive
 * Identify and Report on Control Weaknesses
 * Stay Up-to-Date on Regulations and Standards
 * Maintain Audit Quality
+# Hobbies
+(___________________________________________________________________________________________________________________________________________________________________________________)
+Networking
+* Reading professional books or articles
+* Learning new skills
+* Taking online courses
+* Joining professional organizations
+* Creating or updating a portfolio
+* Participating in mentorship programs
+* Building a website
+
 
 # References
-
+(___________________________________________________________________________________________________________________________________________________________________________________)
 ### Keerthi 
 Asst. Professor Physics
 Hindi Mahavidyalaya college, affiliated to Osmania University
