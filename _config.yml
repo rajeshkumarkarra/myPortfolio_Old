@@ -28,7 +28,7 @@ favicon_ico: "/assets/images/favicon.ico"
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {title: "CV", url: "https://docs.google.com/document/d/1rNrB22x_txxA18JJygJHB-Au_DLogMFYL0yeXYe6ZjE/edit?usp=sharing" }
-  - {title: "About Me", file: "aboutme.md"}
+  - {title: "About Me", file: "Rajesh.Karra_CV_GeneralPurpose.pdf"}
   - {title: "Essentials", file: "essentials.md"}
   - {title: "Spotlights", file: "spotlights.md"}
   - {title: "Gists", file: "gists.md"}
