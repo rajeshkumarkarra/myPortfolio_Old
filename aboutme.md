@@ -13,7 +13,7 @@ categories: media
 
 
 # Professional Profile
-(___________________________________________________________________________________________________________________________________________________________________________________)
+_______________________________________________________________________________________________________________________________________________
 Highly motivated recent graduate with a Bachelor's degree in Mathematics, Physics and Computer Science from Osmania University seeking admission to the Master's program in Theoretical Physics at your University. Eager to leverage my strong foundation in programming and fundamentals of Physics to gain expertise in Theoretical Physics. Aiming to become a research scientist and contribute to the Theoretical Physics and Quantum Computing.
 One pivotal experience that ignited my passion for theoretical physics was my participation in the IBM Qiskit Advocate programs, where I had the opportunity to sharpen my skills in quantum computing.
 
