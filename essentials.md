@@ -1,5 +1,5 @@
 ---
-title:  "Essentials - Learn English and German"
+title:  "Essentials"
 mathjax: true
 layout: post
 categories: media
