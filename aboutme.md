@@ -6,9 +6,9 @@ categories: media
 ---
 
 # Rajesh Karra | Undergrad Physics Student
-(888) 681-4149 
-<rajesh_karra@outlook.com>
-<https://github.com/rajeshkumarkarra>
+(888) 681-4149 <br>
+<rajesh_karra@outlook.com> <br>
+<https://github.com/rajeshkumarkarra> <br>
 <https://rajeshkarra.academia.edu>
 
 
