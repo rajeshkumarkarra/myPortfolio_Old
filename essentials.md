@@ -7,10 +7,22 @@ categories: media
 ## Self-teach Physics
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true" %}
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+<details>
+ <summary>Animated Math</summary>
+## The Essense of Calculus
+{% include embed.html url="https://www.youtube.com/embed/WUvTyaaNkzM" title="The essence of calculus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" %}
+ 
+</details>
 
+
+
+[//]: # Collapsable section
+<details>
+ <summary>Learn English in a easy way</summary>
+ ## English Tenses_table
+ 
+{% include embed.html url="https://drive.google.com/file/d/1rIdU1rcDX6TNDvkjWJqgLeggiCWkkuWq/preview" %}
+</details>
 ## English Tenses_table
 
 
