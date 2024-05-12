@@ -33,7 +33,7 @@ categories: media
 </details>
 
 
-
+<details>
  <summary>Learn German Language</summary>
  
  ## German language practice
