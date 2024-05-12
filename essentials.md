@@ -16,7 +16,7 @@ categories: media
 
 
 
-[//]: # Collapsable section
+<!--- Collapsable section -->
 <details>
  <summary>Learn English in a easy way</summary>
  ## English Tenses_table
