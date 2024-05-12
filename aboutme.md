@@ -26,21 +26,10 @@ One pivotal experience that ignited my passion for theoretical physics was my pa
 | FORTRAN	                  |  Pandas, NumPy, Matplotlib              | 
 | ROOT Library(CERN)        |  JupyterLab, Heroku, Git, aws           | 
 | Haskell	                  |  Linux, Machine Learning                | 
-### Physics/Quantum Computing					
-* IBM Qiskit							
-* FORTRAN							 
-* ROOT Library(CERN)						 
-* Haskell
-### Computer Science
-* Python, Django, Java, Scikit-Learn
-* Pandas, NumPy, Matplotlib
-* JupyterLab, Heroku, Git, aws
-* Linux, Machine Learning 								
-
-
+								
 
 # Education
-(___________________________________________________________________________________________________________________________________________________________________________________)
+
 ### Masters(Pursuing)  - University of Hertfordshire, UK |
 Theoretical Physics with Advanced Research
 | Sep 2024 - Sep 2026 |
