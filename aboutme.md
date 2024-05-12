@@ -152,7 +152,7 @@ Audit Executive
 * Maintain Audit Quality
 # Hobbies
 
-Networking
+* Networking
 * Reading professional books or articles
 * Learning new skills
 * Taking online courses
