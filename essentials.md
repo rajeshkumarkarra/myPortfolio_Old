@@ -16,7 +16,7 @@ categories: media
 
 
 
-<!--- Collapsable section -->
+<!--- Collapsable section starts-->
 <details>
  <summary>Learn English in a easy way</summary>
  
@@ -24,10 +24,8 @@ categories: media
  
 {% include embed.html url="https://drive.google.com/file/d/1rIdU1rcDX6TNDvkjWJqgLeggiCWkkuWq/preview" %}
 </details>
-## English Tenses_table
+<!--- Collapsable section end -->
 
-
-{% include embed.html url="https://drive.google.com/file/d/1rIdU1rcDX6TNDvkjWJqgLeggiCWkkuWq/preview" %}
 
 
 ## German language practice
