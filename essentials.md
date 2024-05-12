@@ -9,6 +9,7 @@ categories: media
 
 <details>
  <summary>Animated Math</summary>
+ 
 ## The Essense of Calculus
 {% include embed.html url="https://www.youtube.com/embed/WUvTyaaNkzM" title="The essence of calculus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" %}
  
