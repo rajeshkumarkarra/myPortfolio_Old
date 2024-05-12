@@ -4,8 +4,13 @@ mathjax: true
 layout: post
 categories: media
 ---
-## Self-teach Physics
+<details>
+ <summary>Self-teach Physics</summary>
+ 
+ ## Self-teach Physics
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true" %}
+</details>
+
 
 <details>
  <summary>Animated Math</summary>
@@ -15,26 +20,25 @@ categories: media
  
 </details>
 
-
-
-<!--- Collapsable section starts-->
 <details>
- <summary>Learn English in a easy way</summary>
+ <summary>Learn English</summary>
  
- ## English Tenses_table
+ ## Collins Easy learning German grammer
+{% include embed.html url="https://drive.google.com/file/d/1SYFAQ0cBRbE6ydUF6cQSo_sHdfoXJ0do/preview" width="640" height="480" allow="autoplay" %}
+
+## English Tenses_table
  
 {% include embed.html url="https://drive.google.com/file/d/1rIdU1rcDX6TNDvkjWJqgLeggiCWkkuWq/preview" %}
+
 </details>
-<!--- Collapsable section end -->
 
 
 
-## German language practice
+ <summary>Learn German Language</summary>
+ 
+ ## German language practice
 
 {% include embed.html url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLwElX19keZb_t1wM7KwzPm5LbtyIm4z-xgrUbwa16tZCYJ4AQsIzjroCHw0gcO0Wtg-3v6S95DH4M/pubhtml?widget=true&amp;headers=false" %}
-
-## Collins Easy learning German grammer
-{% include embed.html url="https://drive.google.com/file/d/1SYFAQ0cBRbE6ydUF6cQSo_sHdfoXJ0do/preview" width="640" height="480" allow="autoplay" %}
 
 ## A complete Guide for GERMAN LANGUAGE learning
       Including German phrases, German grammar and German short stories for beginners
@@ -46,4 +50,14 @@ categories: media
 ## The EVERYTHING Essential German book
     All you need to learn German in no time.
 {% include embed.html url="https://drive.google.com/file/d/18B_6sr12BRd93_IOK1i5OmiBZYuEIzGL/preview" width="640" height="480" allow="autoplay"  %}
+
+</details>
+
+
+
+
+
+
+
+
 
