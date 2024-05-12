@@ -150,6 +150,8 @@ Audit Executive
 * Identify and Report on Control Weaknesses
 * Stay Up-to-Date on Regulations and Standards
 * Maintain Audit Quality
+
+
 # Hobbies
 
 * Networking
