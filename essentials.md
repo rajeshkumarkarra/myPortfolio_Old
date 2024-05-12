@@ -41,14 +41,14 @@ categories: media
 {% include embed.html url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLwElX19keZb_t1wM7KwzPm5LbtyIm4z-xgrUbwa16tZCYJ4AQsIzjroCHw0gcO0Wtg-3v6S95DH4M/pubhtml?widget=true&amp;headers=false" %}
 
 ## A complete Guide for GERMAN LANGUAGE learning
-      Including German phrases, German grammar and German short stories for beginners
+Including German phrases, German grammar and German short stories for beginners
 {% include embed.html url="https://drive.google.com/file/d/1zE3YYJrylwsk5khQA3si89gDtZ3LVOYw/preview" width="640" height="480" allow="autoplay" %}
 
 ## German-English Dictionary
 [German-English, English-German Dictionary](https://drive.google.com/file/d/1t6XlWJPUBR6t1dcW3Vao9u3-cMq6203T/view?usp=sharing)
 
 ## The EVERYTHING Essential German book
-    All you need to learn German in no time.
+All you need to learn German in no time.
 {% include embed.html url="https://drive.google.com/file/d/18B_6sr12BRd93_IOK1i5OmiBZYuEIzGL/preview" width="640" height="480" allow="autoplay"  %}
 
 </details>
