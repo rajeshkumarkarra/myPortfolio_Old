@@ -7,7 +7,7 @@ categories: media
 <details>
  <summary>Self-teach Physics</summary>
  
-  ## Self-teach Physics
+ ## Self-teach Physics
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true" %}
 </details>
 
@@ -15,7 +15,7 @@ categories: media
 <details>
  <summary>Animated Math</summary>
  
-## The Essense of Calculus
+ ## The Essense of Calculus
 {% include embed.html url="https://www.youtube.com/embed/WUvTyaaNkzM" title="The essence of calculus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" %}
  
 </details>
