@@ -7,7 +7,7 @@ categories: media
 <details>
  <summary>Self-teach Physics</summary>
  
- ## Self-teach Physics
+  ## Self-teach Physics
 {% include embed.html url="https://docs.google.com/document/d/e/2PACX-1vSK2pCFdZ3xrMnpXnHq_hnvnb-bxCn2NihoBeLMu-v9eHYIKbNYT6xPPXfIy28YBOjBaYtuHYa_Zpbj/pub?embedded=true" %}
 </details>
 
