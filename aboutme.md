@@ -1,10 +1,11 @@
 ---
-title:  "Rajesh Karra | Undergrad Physics Student"
+title:  "VITAE"
 mathjax: true
 layout: post
 categories: media
 ---
 
+# Rajesh Karra | Undergrad Physics Student
 📞 (888) 681-4149 
 📧 <rajesh_karra@outlook.com>
 🌐 <https://github.com/rajeshkumarkarra>
